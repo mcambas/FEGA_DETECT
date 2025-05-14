@@ -22,7 +22,7 @@ from dotenv import load_dotenv
 # Ajusta la ruta o nombre según tu proyecto
 
 # DICCIONARIOS PARA LA INTERFAZ
-provincias_españa = [
+provincias_espana = [
     "Álava", "Albacete", "Alicante", "Almería", "Asturias", "Ávila", 
     "Badajoz", "Baleares", "Barcelona", "Burgos", 
     "Cáceres", "Cádiz", "Cantabria", "Castellón", "Ceuta", "Ciudad Real", 
