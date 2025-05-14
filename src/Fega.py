@@ -414,7 +414,7 @@ class Menu(ctk.CTkFrame):
         
         self.provincias = AutocompleteCombobox(
             self, 
-            completevalues=provincias_españa, 
+            completevalues=provincias_espana, 
             height=10, 
             font=('Helvetica', 15)
         )
